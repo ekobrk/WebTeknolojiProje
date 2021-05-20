@@ -1,0 +1,17 @@
+#menuDiv{
+    display:flex;
+    justify-content:center;
+}
+
+#bolumDiv{
+    width: 20%;
+}
+
+#resimDiv{
+
+width: 30%;
+padding-left: 50px;
+}
+
+
+
